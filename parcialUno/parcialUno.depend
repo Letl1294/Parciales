@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1538699101 source:/home/alumno/Documentos/Lucas/parcialUno/parcialUno/afiche.c
+	"afiche.h"
+	"cliente.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1538699089 /home/alumno/Documentos/Lucas/parcialUno/parcialUno/afiche.h
+	"cliente.h"
+
+1538699156 /home/alumno/Documentos/Lucas/parcialUno/parcialUno/cliente.h
+
+1538696382 /home/alumno/Documentos/Lucas/parcialUno/parcialUno/utn.h
+
+1538698909 source:/home/alumno/Documentos/Lucas/parcialUno/parcialUno/cliente.c
+	"cliente.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1538699089 source:/home/alumno/Documentos/Lucas/parcialUno/parcialUno/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"afiche.h"
+	"utn.h"
+
+1538674119 source:/home/alumno/Documentos/Lucas/parcialUno/parcialUno/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1538794671 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno/afiche.c
+	"cliente.h"
+	"afiche.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1538794655 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno/cliente.h
+
+1538795174 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno/afiche.h
+
+1538700760 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno/utn.h
+
+1538794688 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno/cliente.c
+	"afiche.h"
+	"cliente.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1538795174 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"afiche.h"
+	"utn.h"
+
+1538700760 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1538859321 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.1/afiche.c
+	"cliente.h"
+	"afiche.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1538859178 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.1/cliente.h
+
+1538852200 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.1/afiche.h
+
+1538700760 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.1/utn.h
+
+1538859216 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.1/cliente.c
+	"afiche.h"
+	"cliente.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1538859245 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.1/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"afiche.h"
+	"utn.h"
+
+1538848227 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.1/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1538859321 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/afiche.c
+	"cliente.h"
+	"afiche.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1538859178 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/cliente.h
+
+1538859517 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/afiche.h
+
+1538700760 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/utn.h
+
+1538859216 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/cliente.c
+	"afiche.h"
+	"cliente.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1539093106 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/informes.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"afiche.h"
+	"informes.h"
+
+1539103494 /home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/informes.h
+	"afiche.h"
+	"cliente.h"
+
+1539092939 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"afiche.h"
+	"informes.h"
+	"utn.h"
+
+1538848227 source:/home/lucas/Escritorio/Prueba/Prueba-master/parcialUno.2/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1539128463 source:/home/alumno/Documentos/Lucas/parcialUno.3/afiche.c
+	"cliente.h"
+	"afiche.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1539116719 /home/alumno/Documentos/Lucas/parcialUno.3/cliente.h
+
+1539116719 /home/alumno/Documentos/Lucas/parcialUno.3/afiche.h
+
+1539116719 /home/alumno/Documentos/Lucas/parcialUno.3/utn.h
+
+1539116719 source:/home/alumno/Documentos/Lucas/parcialUno.3/cliente.c
+	"afiche.h"
+	"cliente.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1539128446 source:/home/alumno/Documentos/Lucas/parcialUno.3/informes.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"afiche.h"
+	"informes.h"
+
+1539126600 /home/alumno/Documentos/Lucas/parcialUno.3/informes.h
+	"afiche.h"
+	"cliente.h"
+
+1539127170 source:/home/alumno/Documentos/Lucas/parcialUno.3/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"afiche.h"
+	"informes.h"
+	"utn.h"
+
+1539116719 source:/home/alumno/Documentos/Lucas/parcialUno.3/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
