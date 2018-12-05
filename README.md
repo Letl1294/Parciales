@@ -1,1 +1,1 @@
-# primerParcial
+# Parciales de Laboratorio I
