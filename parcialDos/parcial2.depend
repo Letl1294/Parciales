@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1542932796 source:/home/alumno/Escritorio/Parcial2/parcial2/parcial2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542926892 /home/alumno/Escritorio/Parcial2/parcial2/parcial2/LinkedList.h
+
+1542931581 source:/home/alumno/Escritorio/Parcial2/parcial2/parcial2/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Ventas.h"
+	"LinkedList.h"
+	"parser.h"
+
+1542931985 /home/alumno/Escritorio/Parcial2/parcial2/parcial2/Ventas.h
+	"LinkedList.h"
+
+1542931767 /home/alumno/Escritorio/Parcial2/parcial2/parcial2/parser.h
+
+1542932673 source:/home/alumno/Escritorio/Parcial2/parcial2/parcial2/parser.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Ventas.h"
+
+1542563726 source:/home/alumno/Escritorio/Parcial2/parcial2/parcial2/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1542563726 /home/alumno/Escritorio/Parcial2/parcial2/parcial2/utn.h
+
+1542934624 source:/home/alumno/Escritorio/Parcial2/parcial2/parcial2/Ventas.c
+	"Ventas.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1543021444 source:/home/lucas/Escritorio/Prueba-master/parcial2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1543014495 /home/lucas/Escritorio/Prueba-master/parcial2/LinkedList.h
+
+1543015276 source:/home/lucas/Escritorio/Prueba-master/parcial2/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Ventas.h"
+	"LinkedList.h"
+	"parser.h"
+
+1543012687 /home/lucas/Escritorio/Prueba-master/parcial2/Ventas.h
+	"LinkedList.h"
+
+1542935911 /home/lucas/Escritorio/Prueba-master/parcial2/parser.h
+
+1543020518 source:/home/lucas/Escritorio/Prueba-master/parcial2/parser.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Ventas.h"
+
+1542935911 source:/home/lucas/Escritorio/Prueba-master/parcial2/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1542935911 /home/lucas/Escritorio/Prueba-master/parcial2/utn.h
+
+1543012708 source:/home/lucas/Escritorio/Prueba-master/parcial2/Ventas.c
+	"Ventas.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
