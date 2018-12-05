@@ -1,1 +1,1 @@
-# Parciales de Laboratorio I
+# Parciales de Laboratorio 1
